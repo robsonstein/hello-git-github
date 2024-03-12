@@ -1,4 +1,4 @@
-# Merge Hello GIT Github - Merge
+# Hello GIT Github - Branch
 
 # H1
 
